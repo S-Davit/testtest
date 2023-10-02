@@ -1,0 +1,7 @@
+git status
+
+git add .
+
+git commit -m "grel message save anel"
+
+git push origin {branchi anun@ vori vra nerka pahin ashxatum es}
